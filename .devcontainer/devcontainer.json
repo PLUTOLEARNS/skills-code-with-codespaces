@@ -1,0 +1,13 @@
+{
+
+
+
+"name" : "Codespace for skills",
+"image" : "mcr.microsft.com/vscode/devconatiners/universal:latest",
+
+
+
+
+"remoteuser":"codespace",
+"overrideCommand":false
+}
